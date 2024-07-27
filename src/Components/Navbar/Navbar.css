@@ -1,0 +1,30 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 120px;
+    color: #fff;
+}
+.nav-logo{
+    font-family: Playwrite DK Uloopet;
+    font-size: 42px;
+    font-weight: 800;
+    color: rgb(255, 255, 17);
+}
+
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: 500;
+    gap: 90px;
+}
+
+.nav-contact{
+    border-radius: 50px;
+    background-color: rgb(255, 255, 17);
+    color: #000;
+    font-weight: 500;
+    padding: 10px 38px;
+}
